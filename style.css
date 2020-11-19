@@ -1,0 +1,50 @@
+.title{
+    color:black;
+    border:solid;
+    background-color:#ff0125;
+    width:102.7%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link{
+    margin: -1%;
+    padding: 0.99%;
+}
+
+body{
+    background-color:#fafad2;
+    margin:0px;
+    width:97%;
+}
+
+img{
+    border:1px solid black;
+    margin:8%;
+}
+
+.cham{
+    margin: 3%;
+    background-color:#ffffff;
+    width:250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pigeon{
+    margin: 3%;
+    background-color: #ffffff;
+    width:250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bear{
+    margin:3%;
+    background-color: #ffffff;
+    width:250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
